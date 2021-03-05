@@ -360,7 +360,7 @@ def index_dimension_process(source_excel, source_sheet, target_excel, target_exc
 ticks_begin = time.time()
 print('开始导入数据')
 
-source_excel = 'D:\\思特奇\\工作文件\\最小指标库\\指标模型\\指标信息完整版18.0.xlsx'
+source_excel = 'D:\\思特奇\\工作文件\\最小指标库\\指标模型\\指标信息完整版19.0.xlsx'
 target_excel = 'D:\\思特奇\\工作文件\\最小指标库\\指标模型\\关系表\\'
 target_excel_lead = 'D:\\思特奇\\工作文件\\最小指标库\\指标模型\\关系表\\导入版\\'
 index_tree = 'D:\\思特奇\\工作文件\\最小指标库\\指标模型\\关系表\\指标树模型2.xlsx'
